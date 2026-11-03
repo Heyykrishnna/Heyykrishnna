@@ -110,7 +110,9 @@
         "width": { "type": "integer", "minimum": 600, "maximum": 1200 },
         "projectColumns": { "enum": [1, 2] },
         "showStats": { "type": "boolean" },
-        "showUpdatedAt": { "type": "boolean" }
+        "showUpdatedAt": { "type": "boolean" },
+        "showProjects": { "type": "boolean" },
+        "showRepos": { "type": "boolean" }
       }
     },
     "footerGif": { "type": "string" }

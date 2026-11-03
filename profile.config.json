@@ -47,8 +47,7 @@
     "links": [
       { "label": "github", "url": "https://github.com/HeyyKrishnna" },
       { "label": "skills", "url": "https://github.com/HeyyKrishnna/HeyyKrishnna/tree/main/.skills" },
-      { "label": "repos", "url": "https://github.com/HeyyKrishnna?tab=repositories" },
-      { "label": "config", "url": "https://github.com/HeyyKrishnna/HeyyKrishnna/blob/main/profile.config.json" }
+      { "label": "repos", "url": "https://github.com/HeyyKrishnna?tab=repositories" }
     ]
   },
   "theme": {
@@ -87,7 +86,9 @@
     "width": 880,
     "projectColumns": 2,
     "showStats": true,
-    "showUpdatedAt": true
+    "showUpdatedAt": true,
+    "showProjects": false,
+    "showRepos": false
   },
   "footerGif": "./profile/footer.gif"
 }
