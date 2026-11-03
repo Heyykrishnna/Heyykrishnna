@@ -29,4 +29,5 @@ if (!['contain', 'cover'].includes(config.projects.bannerFit)) throw new Error('
 if ((config.motion?.speed || 0) <= 0) throw new Error('motion.speed must be greater than zero');
 if ((config.motion?.auroraFps || 0) < 1 || config.motion.auroraFps > 60) throw new Error('motion.auroraFps must be between 1 and 60');
 if (![1, 2].includes(config.layout?.projectColumns)) throw new Error('layout.projectColumns must be 1 or 2');
+if (config.footerGif && !URL.canParse(config.footerGif) && !config.footerGif.startsWith('./') && !config.footerGif.startsWith('/')) throw new Error('footerGif must be a valid URL or path');
 console.log('profile.config.json looks good.');

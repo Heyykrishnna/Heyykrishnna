@@ -10,7 +10,7 @@ Generate motion-design videos from GitHub Pull Requests and create social media 
 ## Quick Start
 
 ```
-Create a video for PR #123 in the ripgrim/repo-name repository
+Create a video for PR #123 in the HeyyKrishnna/repo-name repository
 ```
 
 This will:
@@ -25,7 +25,7 @@ Output: Video file path + suggested tweet text.
 
 Required environment variables (set in your system or Claude Code settings):
 - `GITHUB_TOKEN` - GitHub personal access token
-- `GITHUB_REPO_OWNER` - Repository owner (e.g., "ripgrim")
+- `GITHUB_REPO_OWNER` - Repository owner (e.g., "HeyyKrishnna")
 - `GITHUB_REPO_NAME` - Repository name (e.g., "my-repo")
 
 These can also be passed per-request.

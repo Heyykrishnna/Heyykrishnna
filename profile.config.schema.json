@@ -112,6 +112,7 @@
         "showStats": { "type": "boolean" },
         "showUpdatedAt": { "type": "boolean" }
       }
-    }
+    },
+    "footerGif": { "type": "string" }
   }
 }

@@ -1,7 +1,7 @@
 {
   "$schema": "./profile.config.schema.json",
   "github": {
-    "username": "ripgrim",
+    "username": "HeyyKrishnna",
     "featuredRepos": [
       {
         "repo": "Boring-Software-Inc/dither-kit",
@@ -28,7 +28,7 @@
         "bannerUrl": ""
       }
     ],
-    "moreRepos": ["lab", "ripgrim-com"]
+    "moreRepos": ["Dradix", "Interview-chat"]
   },
   "projects": {
     "bannersEnabled": true,
@@ -37,18 +37,18 @@
     "bannerFit": "contain"
   },
   "profile": {
-    "name": "grim",
-    "handle": "@ripgrim",
+    "name": "HeyyKrishnna",
+    "handle": "@HeyyKrishnna",
     "role": "practical impracticality",
     "intro": "Designer and developer building boring software.",
     "status": "building weird, useful software",
     "focus": "tools",
     "state": "active",
     "links": [
-      { "label": "github", "url": "https://github.com/ripgrim" },
-      { "label": "skills", "url": "https://github.com/ripgrim/ripgrim/tree/main/.skills" },
-      { "label": "repos", "url": "https://github.com/ripgrim?tab=repositories" },
-      { "label": "config", "url": "https://github.com/ripgrim/ripgrim/blob/main/profile.config.json" }
+      { "label": "github", "url": "https://github.com/HeyyKrishnna" },
+      { "label": "skills", "url": "https://github.com/HeyyKrishnna/HeyyKrishnna/tree/main/.skills" },
+      { "label": "repos", "url": "https://github.com/HeyyKrishnna?tab=repositories" },
+      { "label": "config", "url": "https://github.com/HeyyKrishnna/HeyyKrishnna/blob/main/profile.config.json" }
     ]
   },
   "theme": {
@@ -88,5 +88,6 @@
     "projectColumns": 2,
     "showStats": true,
     "showUpdatedAt": true
-  }
+  },
+  "footerGif": "./profile/footer.gif"
 }
