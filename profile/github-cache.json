@@ -1,6 +1,6 @@
 {
   "user": {
-    "login": "HeyyKrishnna",
+    "login": "Heyykrishnna",
     "public_repos": 61,
     "followers": 5,
     "following": 6
@@ -17,15 +17,36 @@
       "updated_at": "2026-11-02T21:13:14Z",
       "topics": []
     },
+    "Interview-chat": {
+      "name": "Interview-chat",
+      "full_name": "Heyykrishnna/Interview-chat",
+      "html_url": "https://github.com/Heyykrishnna/Interview-chat",
+      "description": "AI-powered desktop interview copilot for coding, system design, and behavioural interviews with real-time voice, OCR, screen understanding, and contextual assistance.",
+      "language": "TypeScript",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "updated_at": "2026-06-02T02:52:01Z",
+      "topics": [
+        "ai",
+        "analytics",
+        "electron",
+        "interview",
+        "open-source",
+        "overlay",
+        "personalisation",
+        "privacy",
+        "security"
+      ]
+    },
     "Boring-Software-Inc/v2": {
       "name": "v2",
       "full_name": "Boring-Software-Inc/v2",
       "html_url": "https://github.com/Boring-Software-Inc/v2",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 2,
+      "stargazers_count": 3,
       "forks_count": 2,
-      "updated_at": "2026-10-28T00:13:34Z",
+      "updated_at": "2026-11-03T05:53:25Z",
       "topics": []
     },
     "Dradix": {
@@ -34,20 +55,9 @@
       "html_url": "https://github.com/Heyykrishnna/Dradix",
       "description": "Dradix - Developer Portfolio OS",
       "language": "TypeScript",
-      "stargazers_count": 1,
+      "stargazers_count": 0,
       "forks_count": 0,
-      "updated_at": "2026-11-01T12:00:00Z",
-      "topics": []
-    },
-    "Interview-chat": {
-      "name": "Interview-chat",
-      "full_name": "Heyykrishnna/Interview-chat",
-      "html_url": "https://github.com/Heyykrishnna/Interview-chat",
-      "description": "AI-powered desktop interview copilot for coding, system design, and behavioural interviews",
-      "language": "TypeScript",
-      "stargazers_count": 1,
-      "forks_count": 0,
-      "updated_at": "2026-11-01T12:00:00Z",
+      "updated_at": "2026-08-10T09:03:00Z",
       "topics": []
     }
   }
