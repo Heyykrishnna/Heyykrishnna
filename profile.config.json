@@ -4,31 +4,31 @@
     "username": "HeyyKrishnna",
     "featuredRepos": [
       {
-        "repo": "Boring-Software-Inc/dither-kit",
+        "repo": "devclub-nstru/component_library",
         "solidButton": true,
-        "ctaLabel": "Visit project",
+        "ctaLabel": "View library",
         "ctaArrow": null,
-        "showRepoPath": false,
-        "projectUrl": "https://tripwire.sh/dither-kit",
+        "showRepoPath": true,
+        "projectUrl": "https://github.com/devclub-nstru/component_library",
         "showBanner": true,
         "autoOgImage": true,
-        "ogSourceUrl": "https://tripwire.sh/dither-kit",
+        "ogSourceUrl": "https://github.com/devclub-nstru/component_library",
         "bannerUrl": ""
       },
       {
-        "repo": "Boring-Software-Inc/v2",
+        "repo": "Heyykrishnna/Dradix",
         "solidButton": true,
-        "ctaLabel": "View source",
+        "ctaLabel": "Visit project",
         "ctaArrow": null,
-        "showRepoPath": false,
-        "projectUrl": "",
+        "showRepoPath": true,
+        "projectUrl": "https://github.com/Heyykrishnna/Dradix",
         "showBanner": true,
         "autoOgImage": true,
-        "ogSourceUrl": "",
+        "ogSourceUrl": "https://github.com/Heyykrishnna/Dradix",
         "bannerUrl": ""
       }
     ],
-    "moreRepos": ["Dradix", "Interview-chat"]
+    "moreRepos": ["Interview-chat"]
   },
   "projects": {
     "bannersEnabled": true,
@@ -87,7 +87,7 @@
     "projectColumns": 2,
     "showStats": true,
     "showUpdatedAt": true,
-    "showProjects": false,
+    "showProjects": true,
     "showRepos": false
   },
   "footerGif": "./profile/footer.gif"
