@@ -1,11 +1,32 @@
 {
   "user": {
     "login": "Heyykrishnna",
-    "public_repos": 61,
+    "public_repos": 62,
     "followers": 5,
     "following": 6
   },
   "repos": {
+    "Interview-chat": {
+      "name": "Interview-chat",
+      "full_name": "Heyykrishnna/Interview-chat",
+      "html_url": "https://github.com/Heyykrishnna/Interview-chat",
+      "description": "AI-powered desktop interview copilot for coding, system design, and behavioural interviews with real-time voice, OCR, screen understanding, and contextual assistance.",
+      "language": "TypeScript",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "updated_at": "2026-06-02T02:52:01Z",
+      "topics": [
+        "ai",
+        "analytics",
+        "electron",
+        "interview",
+        "open-source",
+        "overlay",
+        "personalisation",
+        "privacy",
+        "security"
+      ]
+    },
     "devclub-nstru/component_library": {
       "name": "component_library",
       "full_name": "devclub-nstru/component_library",
@@ -37,27 +58,6 @@
       "forks_count": 0,
       "updated_at": "2026-08-10T09:03:00Z",
       "topics": []
-    },
-    "Interview-chat": {
-      "name": "Interview-chat",
-      "full_name": "Heyykrishnna/Interview-chat",
-      "html_url": "https://github.com/Heyykrishnna/Interview-chat",
-      "description": "AI-powered desktop interview copilot for coding, system design, and behavioural interviews with real-time voice, OCR, screen understanding, and contextual assistance.",
-      "language": "TypeScript",
-      "stargazers_count": 1,
-      "forks_count": 0,
-      "updated_at": "2026-06-02T02:52:01Z",
-      "topics": [
-        "ai",
-        "analytics",
-        "electron",
-        "interview",
-        "open-source",
-        "overlay",
-        "personalisation",
-        "privacy",
-        "security"
-      ]
     }
   }
 }
