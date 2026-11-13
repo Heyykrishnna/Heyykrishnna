@@ -27,17 +27,6 @@
         "ui-components"
       ]
     },
-    "Heyykrishnna/Dradix": {
-      "name": "Dradix",
-      "full_name": "Heyykrishnna/Dradix",
-      "html_url": "https://github.com/Heyykrishnna/Dradix",
-      "description": "Dradix - Developer Portfolio OS",
-      "language": "TypeScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "updated_at": "2026-08-10T09:03:00Z",
-      "topics": []
-    },
     "Interview-chat": {
       "name": "Interview-chat",
       "full_name": "Heyykrishnna/Interview-chat",
@@ -58,6 +47,17 @@
         "privacy",
         "security"
       ]
+    },
+    "Heyykrishnna/Dradix": {
+      "name": "Dradix",
+      "full_name": "Heyykrishnna/Dradix",
+      "html_url": "https://github.com/Heyykrishnna/Dradix",
+      "description": "Dradix - Developer Portfolio OS",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-08-10T09:03:00Z",
+      "topics": []
     }
   }
 }
