@@ -6,6 +6,17 @@
     "following": 6
   },
   "repos": {
+    "Heyykrishnna/Dradix": {
+      "name": "Dradix",
+      "full_name": "Heyykrishnna/Dradix",
+      "html_url": "https://github.com/Heyykrishnna/Dradix",
+      "description": "Dradix - Developer Portfolio OS",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-08-10T09:03:00Z",
+      "topics": []
+    },
     "devclub-nstru/component_library": {
       "name": "component_library",
       "full_name": "devclub-nstru/component_library",
@@ -47,17 +58,6 @@
         "privacy",
         "security"
       ]
-    },
-    "Heyykrishnna/Dradix": {
-      "name": "Dradix",
-      "full_name": "Heyykrishnna/Dradix",
-      "html_url": "https://github.com/Heyykrishnna/Dradix",
-      "description": "Dradix - Developer Portfolio OS",
-      "language": "TypeScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "updated_at": "2026-08-10T09:03:00Z",
-      "topics": []
     }
   }
 }
