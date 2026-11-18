@@ -1,43 +1,11 @@
 {
   "user": {
     "login": "Heyykrishnna",
-    "public_repos": 62,
+    "public_repos": 64,
     "followers": 4,
-    "following": 6
+    "following": 2
   },
   "repos": {
-    "devclub-nstru/component_library": {
-      "name": "component_library",
-      "full_name": "devclub-nstru/component_library",
-      "html_url": "https://github.com/devclub-nstru/component_library",
-      "description": "Animated React components for Next.js, installable through the shadcn registry or the @devclubnst/ui CLI",
-      "language": "TypeScript",
-      "stargazers_count": 15,
-      "forks_count": 1,
-      "updated_at": "2026-10-26T04:55:31Z",
-      "topics": [
-        "animation",
-        "component-library",
-        "gsap",
-        "nextjs",
-        "react",
-        "shadcn",
-        "tailwindcss",
-        "typescript",
-        "ui-components"
-      ]
-    },
-    "Heyykrishnna/Dradix": {
-      "name": "Dradix",
-      "full_name": "Heyykrishnna/Dradix",
-      "html_url": "https://github.com/Heyykrishnna/Dradix",
-      "description": "Dradix - Developer Portfolio OS",
-      "language": "TypeScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "updated_at": "2026-08-10T09:03:00Z",
-      "topics": []
-    },
     "Interview-chat": {
       "name": "Interview-chat",
       "full_name": "Heyykrishnna/Interview-chat",
@@ -57,6 +25,38 @@
         "personalisation",
         "privacy",
         "security"
+      ]
+    },
+    "Heyykrishnna/Dradix": {
+      "name": "Dradix",
+      "full_name": "Heyykrishnna/Dradix",
+      "html_url": "https://github.com/Heyykrishnna/Dradix",
+      "description": "Dradix - Developer Portfolio OS",
+      "language": "TypeScript",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "updated_at": "2026-11-18T11:38:15Z",
+      "topics": []
+    },
+    "devclub-nstru/component_library": {
+      "name": "component_library",
+      "full_name": "devclub-nstru/component_library",
+      "html_url": "https://github.com/devclub-nstru/component_library",
+      "description": "Animated React components for Next.js, installable through the shadcn registry or the @devclubnst/ui CLI",
+      "language": "TypeScript",
+      "stargazers_count": 15,
+      "forks_count": 1,
+      "updated_at": "2026-10-26T04:55:31Z",
+      "topics": [
+        "animation",
+        "component-library",
+        "gsap",
+        "nextjs",
+        "react",
+        "shadcn",
+        "tailwindcss",
+        "typescript",
+        "ui-components"
       ]
     }
   }
