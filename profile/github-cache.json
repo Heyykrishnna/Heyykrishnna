@@ -2,10 +2,21 @@
   "user": {
     "login": "Heyykrishnna",
     "public_repos": 64,
-    "followers": 4,
+    "followers": 5,
     "following": 2
   },
   "repos": {
+    "Heyykrishnna/Dradix": {
+      "name": "Dradix",
+      "full_name": "Heyykrishnna/Dradix",
+      "html_url": "https://github.com/Heyykrishnna/Dradix",
+      "description": "Dradix - Developer Portfolio OS",
+      "language": "TypeScript",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "updated_at": "2026-11-18T11:38:15Z",
+      "topics": []
+    },
     "devclub-nstru/component_library": {
       "name": "component_library",
       "full_name": "devclub-nstru/component_library",
@@ -26,17 +37,6 @@
         "typescript",
         "ui-components"
       ]
-    },
-    "Heyykrishnna/Dradix": {
-      "name": "Dradix",
-      "full_name": "Heyykrishnna/Dradix",
-      "html_url": "https://github.com/Heyykrishnna/Dradix",
-      "description": "Dradix - Developer Portfolio OS",
-      "language": "TypeScript",
-      "stargazers_count": 1,
-      "forks_count": 0,
-      "updated_at": "2026-11-18T11:38:15Z",
-      "topics": []
     },
     "Interview-chat": {
       "name": "Interview-chat",
